@@ -1,2 +1,2 @@
 # Datasets
-Contains jupyter notebook for datasets I have worked
+Contains jupyter notebooks for datasets I have worked on.
